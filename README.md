@@ -48,9 +48,9 @@ Through these challenges, I am practicing:
 | ----- | ------------------ | --------------------------------- |
 | 0 → 1 | SSH / Linux basics | [View](levels/level-00/level-00.md) |
 | 1 → 2 | File names         | [View](levels/level-01/level-01.md) |
-| 2 → 3 | Special characters | [View](levels/level-02/README.md) |
-| 3 → 4 | Hidden files       | [View](levels/level-03/README.md) |
-| 4 → 5 | File types         | [View](levels/level-04/README.md) |
+| 2 → 3 | Special characters | [View](levels/level-02/level-02.md) |
+| 3 → 4 | Hidden files       | [View](levels/level-03/level-03.md) |
+| 4 → 5 | File types         | [View](levels/level-04/level-04.md) |
 | ...   | ...                | ...                               |
 
 > The table will be updated as I progress through the wargame.
@@ -115,11 +115,11 @@ A través de estos desafíos estoy practicando:
 
 | Nivel | Tema principal             | Write-up                         |
 | ----- | -------------------------- | -------------------------------- |
-| 0 → 1 | SSH / Fundamentos de Linux | [Ver](levels/level-00/README.md) |
-| 1 → 2 | Nombres de archivos        | [Ver](levels/level-01/README.md) |
-| 2 → 3 | Caracteres especiales      | [Ver](levels/level-02/README.md) |
-| 3 → 4 | Archivos ocultos           | [Ver](levels/level-03/README.md) |
-| 4 → 5 | Tipos de archivos          | [Ver](levels/level-04/README.md) |
+| 0 → 1 | SSH / Fundamentos de Linux | [Ver](levels/level-00/level-00.md) |
+| 1 → 2 | Nombres de archivos        | [Ver](levels/level-01/level-01.md) |
+| 2 → 3 | Caracteres especiales      | [Ver](levels/level-02/level-02.md) |
+| 3 → 4 | Archivos ocultos           | [Ver](levels/level-03/level-03.md) |
+| 4 → 5 | Tipos de archivos          | [Ver](levels/level-04/level-04.md) |
 | ...   | ...                        | ...                              |
 
 > La tabla se actualizará a medida que avance en el wargame.
@@ -184,11 +184,11 @@ L'objectif de ce dépôt n'est pas seulement de documenter les solutions, mais �
 
 | Niveau | Thème principal      | Write-up                          |
 | ------ | -------------------- | --------------------------------- |
-| 0 → 1  | SSH / Bases de Linux | [Voir](levels/level-00/README.md) |
-| 1 → 2  | Noms de fichiers     | [Voir](levels/level-01/README.md) |
-| 2 → 3  | Caractères spéciaux  | [Voir](levels/level-02/README.md) |
-| 3 → 4  | Fichiers cachés      | [Voir](levels/level-03/README.md) |
-| 4 → 5  | Types de fichiers    | [Voir](levels/level-04/README.md) |
+| 0 → 1  | SSH / Bases de Linux | [Voir](levels/level-00/level-00.md) |
+| 1 → 2  | Noms de fichiers     | [Voir](levels/level-01/level-01.md) |
+| 2 → 3  | Caractères spéciaux  | [Voir](levels/level-02/level-02.md) |
+| 3 → 4  | Fichiers cachés      | [Voir](levels/level-03/level-03.md) |
+| 4 → 5  | Types de fichiers    | [Voir](levels/level-04/level-04.md) |
 | ...    | ...                  | ...                               |
 
 > Le tableau sera mis à jour au fur et à mesure de ma progression dans le wargame.
