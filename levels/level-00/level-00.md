@@ -10,7 +10,7 @@
 **Concepts Learned**
 **Conclusion**
 
-# **Version en español**
+# **Versión en español**
 
 **Objetivo**
 **Información inicial**
