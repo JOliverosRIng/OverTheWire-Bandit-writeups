@@ -36,10 +36,16 @@ SSH is commonly used to:
 - Manage cloud infrastructure.
 - Access virtual machines and remote systems.
 - Perform system administration tasks.
-- Security provided by SSH
+- Security provided by SSH.
 
 **Approach**
+
+First, I will use SSH to establish a secure connection to the Bandit server using the host, port, and credentials provided.
+
+After successfully authenticating, I will verify that I have access to the remote system and inspect the available resources to understand how to proceed to the level 1.
+
 **Commands Used**
+
 **Solution**
 **Explanation**
 **Concepts Learned**
