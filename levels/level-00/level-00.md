@@ -101,6 +101,11 @@ Once the connection is accepted, the server requests the password associated wit
 - **SSH Host Key Verification:** The mechanism SSH uses to verify the identity of a remote server when connecting to it for the first time.
 
 ## **Conclusion**
+The SSH connection was successfully established, and access to the Bandit server was obtained using the bandit0 account.
+
+## *Next Level**
+[Level 00 to Level 01](levels/level-00/level-00.md)
+
 
 # **Versión en español**
 
