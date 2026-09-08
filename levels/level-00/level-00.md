@@ -12,6 +12,32 @@ The goal of this level is for you to log into the game using SSH. The host to wh
 - **password:** bandit0
   
 **Enumeration or Analysis**
+**SSH** stands for Secure Shell. It is a network protocol that allows you to securely access and manage a remote computer or server over a network.
+
+**What does “Secure Shell” mean?**
+- **Secure:** The communication is protected through encryption.
+- **Shell** It provides a command-line interface through which you can interact with the remote system.
+
+In simple terms, SSH allows you to connect to another computer remotely and interact with its operating system through a terminal.
+
+**What happens when you use SSH?**
+1. Your computer connects to the remote server.
+2. The server authenticates your identity.
+3. An encrypted connection is established.
+4. You can interact with the remote system through a command-line interface.
+
+**What is SSH used for?**
+
+SSH is commonly used to:
+
+- Remotely administer servers.
+- Execute commands on remote Linux systems.
+- Transfer files securely.
+- Manage cloud infrastructure.
+- Access virtual machines and remote systems.
+- Perform system administration tasks.
+- Security provided by SSH
+
 **Approach**
 **Commands Used**
 **Solution**
