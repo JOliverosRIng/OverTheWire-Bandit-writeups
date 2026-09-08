@@ -50,9 +50,48 @@ ssh bandit0@bandit.labs.overthewire.org -p 2220
 
 **Solution**
 
+First, open the command-line terminal. Then, establish an SSH connection to the Bandit server using the following command:
+
+ssh bandit0@bandit.labs.overthewire.org -p 2220
+
+The server will ask you to verify its authenticity. If this is your first time connecting to the server, you will be prompted to confirm whether you want to continue with the connection. Type yes and press Enter.
+
+The server will then ask for the password. Enter the password provided in the challenge:
+
+bandit0
+
+Once the password is accepted, the SSH connection is established and you are logged in as the bandit0 user.
 
 **Explanation**
+
+The ssh command is used to establish a secure connection to a remote server.
+
+The command used in this level is:
+
+ssh bandit0@bandit.labs.overthewire.org -p 2220
+
+Each part of the command has a specific purpose:
+
+- ssh → starts an SSH connection.
+bandit0 → specifies the username used to authenticate to the remote server.
+- @ → separates the username from the server address.
+bandit.labs.overthewire.org → specifies the hostname of the remote server.
+- -p 2220 → specifies the port where the SSH service is running.
+
+After executing the command, the server asks the user to verify its authenticity. This is part of the SSH process used to establish trust between the client and the remote server.
+
+Once the connection is accepted, the server requests the password associated with the bandit0 account. After successful authentication, an SSH session is established and the user gains access to the remote system.
+
 **Concepts Learned**
+
+- **SSH (Secure Shell):** Protocol used to securely connect to a remote computer or server.
+- **Remote Access:** Connecting to and interacting with a computer located on another system or network.
+- **SSH Authentication:** The process of verifying the user's identity using credentials such as a username and password.
+- **Hostnames:** Human-readable names used to identify remote servers on a network.
+- **Network Ports:** Logical endpoints used by network services to receive connections. In this level, SSH is running on port 2220 instead of the default port 22.
+- **Command-Line Interface (CLI):** A text-based interface used to interact with a computer by entering commands.
+- **SSH Host Key Verification:** The mechanism SSH uses to verify the identity of a remote server when connecting to it for the first time.
+
 **Conclusion**
 
 # **Versión en español**
