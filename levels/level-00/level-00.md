@@ -46,7 +46,11 @@ After successfully authenticating, I will verify that I have access to the remot
 
 **Commands Used**
 
+ssh bandit0@bandit.labs.overthewire.org -p 2220
+
 **Solution**
+
+
 **Explanation**
 **Concepts Learned**
 **Conclusion**
