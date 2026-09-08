@@ -46,13 +46,17 @@ After successfully authenticating, I will verify that I have access to the remot
 
 **Commands Used**
 
+s```bash
 ssh bandit0@bandit.labs.overthewire.org -p 2220
+```
 
 **Solution**
 
 First, open the command-line terminal. Then, establish an SSH connection to the Bandit server using the following command:
 
+```bash
 ssh bandit0@bandit.labs.overthewire.org -p 2220
+```
 
 The server will ask you to verify its authenticity. If this is your first time connecting to the server, you will be prompted to confirm whether you want to continue with the connection. Type yes and press Enter.
 
@@ -68,15 +72,17 @@ The ssh command is used to establish a secure connection to a remote server.
 
 The command used in this level is:
 
-$ ssh bandit0@bandit.labs.overthewire.org -p 2220
+```bash
+ssh bandit0@bandit.labs.overthewire.org -p 2220
+```
 
 Each part of the command has a specific purpose:
 
-- ssh → starts an SSH connection.
-bandit0 → specifies the username used to authenticate to the remote server.
-- @ → separates the username from the server address.
-bandit.labs.overthewire.org → specifies the hostname of the remote server.
-- -p 2220 → specifies the port where the SSH service is running.
+- **ssh →** starts an SSH connection.
+- **bandit0 →** specifies the username used to authenticate to the remote server.
+- **@ →** separates the username from the server address.
+- **bandit.labs.overthewire.org →** specifies the hostname of the remote server.
+- **-p 2220 →** specifies the port where the SSH service is running.
 
 After executing the command, the server asks the user to verify its authenticity. This is part of the SSH process used to establish trust between the client and the remote server.
 
