@@ -68,7 +68,7 @@ The ssh command is used to establish a secure connection to a remote server.
 
 The command used in this level is:
 
-´ssh bandit0@bandit.labs.overthewire.org -p 2220´
+$ ssh bandit0@bandit.labs.overthewire.org -p 2220
 
 Each part of the command has a specific purpose:
 
