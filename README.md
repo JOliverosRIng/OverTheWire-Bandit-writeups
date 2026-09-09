@@ -46,8 +46,8 @@ Through these challenges, I am practicing:
 
 | Level | Main Topic              | Write-up                          |
 | ----- | ----------------------- | --------------------------------- |
-| 0     | SSH                     | [View](levels/Level-00/level-00.md) |
-| 0 → 1 | Linux basics (commands) | [View](levels/level-00_2_Level-01/level-01.md) |
+| 0     | SSH                     | [View](levels/level-00/level-00.md) |
+| 0 → 1 | Linux basics (commands) | [View](levels/Level-00_2_Level-01/level-01.md) |
 | 1 → 2 | File names              | [View](levels/level-01/level-01.md) |
 | 2 → 3 | Special characters      | [View](levels/level-02/level-02.md) |
 | 3 → 4 | Hidden files            | [View](levels/level-03/level-03.md) |
