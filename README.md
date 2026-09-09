@@ -112,6 +112,12 @@ A través de estos desafíos estoy practicando:
 * Comandos y scripting en Bash
 * Técnicas de resolución de problemas y enumeración
 
+## ⚠️ Spoilers
+
+Este repositorio contiene las soluciones de los desafíos de Bandit.
+
+Si estás resolviendo Bandit actualmente, te recomiendo intentar resolver cada nivel por tu cuenta antes de consultar el write-up correspondiente.
+
 ## 📚 Write-ups
 
 | Nivel | Tema principal             | Write-up                         |
@@ -141,12 +147,6 @@ Cada nivel se documenta utilizando la siguiente estructura:
 9. **Conclusión**
 
 El objetivo es explicar no solamente *qué* comando funciona, sino también *por qué* funciona.
-
-## ⚠️ Spoilers
-
-Este repositorio contiene las soluciones de los desafíos de Bandit.
-
-Si estás resolviendo Bandit actualmente, te recomiendo intentar resolver cada nivel por tu cuenta antes de consultar el write-up correspondiente.
 
 ## 🔐 Ética
 
@@ -182,6 +182,12 @@ L'objectif de ce dépôt n'est pas seulement de documenter les solutions, mais �
 * Les commandes et le scripting Bash
 * Les techniques de résolution de problèmes et d'énumération
 
+## ⚠️ Spoilers
+
+Ce dépôt contient les solutions des défis Bandit.
+
+Si vous êtes actuellement en train de résoudre Bandit, je vous recommande d'essayer de résoudre chaque niveau par vous-même avant de consulter le write-up correspondant.
+
 ## 📚 Write-ups
 
 | Niveau | Thème principal      | Write-up                          |
@@ -211,12 +217,6 @@ Chaque niveau est documenté selon la structure suivante :
 9. **Conclusion**
 
 L'objectif est d'expliquer non seulement *quelle* commande fonctionne, mais également *pourquoi* elle fonctionne.
-
-## ⚠️ Spoilers
-
-Ce dépôt contient les solutions des défis Bandit.
-
-Si vous êtes actuellement en train de résoudre Bandit, je vous recommande d'essayer de résoudre chaque niveau par vous-même avant de consulter le write-up correspondant.
 
 ## 🔐 Éthique
 
