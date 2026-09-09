@@ -44,14 +44,15 @@ Through these challenges, I am practicing:
 
 ## 📚 Write-ups
 
-| Level | Main Topic         | Write-up                          |
-| ----- | ------------------ | --------------------------------- |
-| 0 → 1 | SSH / Linux basics | [View](levels/level-00/level-00.md) |
-| 1 → 2 | File names         | [View](levels/level-01/level-01.md) |
-| 2 → 3 | Special characters | [View](levels/level-02/level-02.md) |
-| 3 → 4 | Hidden files       | [View](levels/level-03/level-03.md) |
-| 4 → 5 | File types         | [View](levels/level-04/level-04.md) |
-| ...   | ...                | ...                               |
+| Level | Main Topic              | Write-up                          |
+| ----- | ----------------------- | --------------------------------- |
+| 0     | SSH                     | [View](levels/Level-00/level-00.md) |
+| 0 → 1 | Linux basics (commands) | [View](levels/level-00_2_Level-01/level-01.md) |
+| 1 → 2 | File names              | [View](levels/level-01/level-01.md) |
+| 2 → 3 | Special characters      | [View](levels/level-02/level-02.md) |
+| 3 → 4 | Hidden files            | [View](levels/level-03/level-03.md) |
+| 4 → 5 | File types              | [View](levels/level-04/level-04.md) |
+| ...   | ...                     | ...                               |
 
 > The table will be updated as I progress through the wargame.
 
