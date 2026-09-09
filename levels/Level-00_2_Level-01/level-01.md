@@ -1,4 +1,6 @@
 # **LEVEL 0 TO LEVEL 1**
+<img width="479" height="439" alt="image" src="https://github.com/user-attachments/assets/f3f99c05-8a56-46bd-b4e8-18a7bef18b5f" />
+
 ## **English version**
  
 ## **Objective**
