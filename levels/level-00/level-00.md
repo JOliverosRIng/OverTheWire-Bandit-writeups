@@ -318,4 +318,4 @@ Une fois la connexion acceptée, le serveur demande le mot de passe associé au 
 La connexion SSH a été établie avec succès et l'accès au serveur Bandit a été obtenu à l'aide du compte bandit0.
 
 ## **Niveau Suivant**
-[Niveau 00 au Niveau 01](levels/Level-00_2_Level-01/level-01.md)
+[Niveau 00 au Niveau 01](levels/Level-00_2_Level-01)
