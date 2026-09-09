@@ -53,9 +53,6 @@ The password was found in a visible (non-hidden) file named `readme`, located di
 
 # **Versión en español**
 
-**NIVEL 0 AL NIVEL 1**
-# **Versión en español**
-
 ## **Objetivo**
 Encontrar la contraseña del siguiente nivel. Está almacenada en un archivo llamado `readme` ubicado en el directorio home.
 
@@ -113,8 +110,6 @@ Los comandos `file`, `du` y `find` no fueron necesarios para este nivel, pero `f
 La contraseña se encontró en un archivo visible (no oculto) llamado `readme`, ubicado directamente en el directorio home, y se leyó utilizando el comando `cat`.
 
 # **Version en français**
-
-# **Version française**
  
 ## **Objectif**
 Trouver le mot de passe du niveau suivant. Il est stocké dans un fichier appelé `readme` situé dans le répertoire home.
