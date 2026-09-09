@@ -116,7 +116,8 @@ A través de estos desafíos estoy practicando:
 
 | Nivel | Tema principal             | Write-up                         |
 | ----- | -------------------------- | -------------------------------- |
-| 0 → 1 | SSH / Fundamentos de Linux | [Ver](levels/level-00/level-00.md) |
+| 0 | SSH | [Ver](levels/level-00/level-00.md) |
+| 0 → 1 | Comandos Fundamentales de Linux | [Ver](levels/Level-00_2_Level-01/level-01.md) |
 | 1 → 2 | Nombres de archivos        | [Ver](levels/level-01/level-01.md) |
 | 2 → 3 | Caracteres especiales      | [Ver](levels/level-02/level-02.md) |
 | 3 → 4 | Archivos ocultos           | [Ver](levels/level-03/level-03.md) |
@@ -185,7 +186,8 @@ L'objectif de ce dépôt n'est pas seulement de documenter les solutions, mais �
 
 | Niveau | Thème principal      | Write-up                          |
 | ------ | -------------------- | --------------------------------- |
-| 0 → 1  | SSH / Bases de Linux | [Voir](levels/level-00/level-00.md) |
+| 0 | SSH | [Voir](levels/level-00/level-00.md) |
+| 0 → 1 | commandes de base Linux | [Voir](levels/Level-00_2_Level-01/level-01.md) |
 | 1 → 2  | Noms de fichiers     | [Voir](levels/level-01/level-01.md) |
 | 2 → 3  | Caractères spéciaux  | [Voir](levels/level-02/level-02.md) |
 | 3 → 4  | Fichiers cachés      | [Voir](levels/level-03/level-03.md) |
