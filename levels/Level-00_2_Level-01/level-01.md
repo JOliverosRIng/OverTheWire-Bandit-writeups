@@ -1,5 +1,5 @@
 # **LEVEL 0 TO LEVEL 1**
-# **English version**
+## **English version**
  
 ## **Objective**
 Find the password for the next level. It is stored in a file called `readme` located in the home directory.
