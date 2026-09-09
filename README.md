@@ -42,6 +42,12 @@ Through these challenges, I am practicing:
 * Bash commands and scripting
 * Problem-solving and enumeration techniques
 
+## ⚠️ Spoilers
+
+This repository contains solutions to Bandit challenges.
+
+If you are currently solving Bandit, I recommend attempting each level yourself before reading the corresponding write-up.
+
 ## 📚 Write-ups
 
 | Level | Main Topic              | Write-up                          |
@@ -71,12 +77,6 @@ Each level is documented using the following structure:
 9. **Conclusion**
 
 The goal is to explain not only *what* command works, but also *why* it works.
-
-## ⚠️ Spoilers
-
-This repository contains solutions to Bandit challenges.
-
-If you are currently solving Bandit, I recommend attempting each level yourself before reading the corresponding write-up.
 
 ## 🔐 Ethics
 
