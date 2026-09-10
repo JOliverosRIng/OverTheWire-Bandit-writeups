@@ -124,7 +124,7 @@ Si estás resolviendo Bandit actualmente, te recomiendo intentar resolver cada n
 | ----- | -------------------------- | -------------------------------- |
 | 0 | SSH | [Ver](levels/level-00/level-00.md) |
 | 0 → 1 | Comandos Fundamentales de Linux | [Ver](levels/Level-00_2_Level-01/level-01.md) |
-| 1 → 2 | Nombres de archivos        | [Ver](levels/level-01/level-01.md) |
+| 1 → 2 | Comandos Fundamentales de Linux | [Ver](levels/Level-01_2_Level-02/level-02.md) |
 | 2 → 3 | Caracteres especiales      | [Ver](levels/level-02/level-02.md) |
 | 3 → 4 | Archivos ocultos           | [Ver](levels/level-03/level-03.md) |
 | 4 → 5 | Tipos de archivos          | [Ver](levels/level-04/level-04.md) |
@@ -193,8 +193,8 @@ Si vous êtes actuellement en train de résoudre Bandit, je vous recommande d'es
 | Niveau | Thème principal      | Write-up                          |
 | ------ | -------------------- | --------------------------------- |
 | 0 | SSH | [Voir](levels/level-00/level-00.md) |
-| 0 → 1 | commandes de base Linux | [Voir](levels/Level-00_2_Level-01/level-01.md) |
-| 1 → 2  | Noms de fichiers     | [Voir](levels/level-01/level-01.md) |
+| 0 → 1 | Commandes de base Linux | [Voir](levels/Level-00_2_Level-01/level-01.md) |
+| 1 → 2  | Commandes de base Linux | [Voir](levels/Level-01_2_Level-02/level-02.md) |
 | 2 → 3  | Caractères spéciaux  | [Voir](levels/level-02/level-02.md) |
 | 3 → 4  | Fichiers cachés      | [Voir](levels/level-03/level-03.md) |
 | 4 → 5  | Types de fichiers    | [Voir](levels/level-04/level-04.md) |
