@@ -54,7 +54,7 @@ If you are currently solving Bandit, I recommend attempting each level yourself 
 | ----- | ----------------------- | --------------------------------- |
 | 0     | SSH                     | [View](levels/level-00/level-00.md) |
 | 0 → 1 | Linux basics (commands) | [View](levels/Level-00_2_Level-01/level-01.md) |
-| 1 → 2 | File names              | [View](levels/level-01/level-01.md) |
+| 1 → 2 | Linux basics (commands) | [View](levels/Level-01_2_Level-02/level-02.md) |
 | 2 → 3 | Special characters      | [View](levels/level-02/level-02.md) |
 | 3 → 4 | Hidden files            | [View](levels/level-03/level-03.md) |
 | 4 → 5 | File types              | [View](levels/level-04/level-04.md) |
